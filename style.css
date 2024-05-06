@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: #444444;
 }
@@ -27,3 +28,34 @@ body{
     padding-right :5px;
     padding-left :5px ;
 }
+=======
+body{
+    background-color: #444444;
+}
+
+#photo1{
+    width: 500px;
+    padding-bottom :5px ;
+    padding-top :5px;
+    padding-right :5px;
+    padding-left :5px ;
+    display:inline;
+    
+}
+#photo2{
+    width:500px;
+    width: 500px;
+    padding-bottom :5px ;
+    padding-top :5px;
+    padding-right :5px;
+    border-left :5px ;
+    display:inline;
+}
+#photo3{
+    width:500px;
+    padding-bottom: 5px ;
+    padding-top :5px;
+    padding-right :5px;
+    padding-left :5px ;
+}
+>>>>>>> 758ccc3720c230534079b52099263d127c604981
